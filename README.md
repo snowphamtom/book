@@ -1,3 +1,5 @@
 # book
-Book project — raw data intake and analysis. Linked to Netlify.
-Linked to Netlify — test deploy 2026-10-04T05:48:58Z
+
+Raw data intake. Public ledger is in `public/ledger/`. Meta adds under `public/meta/`.
+
+Live hub: https://bucolic-valkyrie-e562ee.netlify.app
